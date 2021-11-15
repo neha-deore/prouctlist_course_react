@@ -1,0 +1,151 @@
+{
+  "ProductList": [
+    {
+      "pid": 1,
+      "pname": "Tradional-Wear",
+      "quantity": 1,
+      "price": 200,
+      "image": "images/1.jpg"
+    },
+    {
+      "pid": 2,
+      "pname": "Ethenic Wear",
+      "quantity": 3,
+      "price": 500,
+      "image": "images/2.jpg"
+    },
+    {
+      "pid": 3,
+      "pname": "Plazo",
+      "quantity": 2,
+      "price": 400,
+      "image": "images/3.jpg"
+    },
+    {
+      "pid": 4,
+      "pname": "Suit",
+      "quantity": 5,
+      "price": 250,
+      "image": "images/4.jpg"
+    },
+    {
+      "pid": 5,
+      "pname": "Indo-Western",
+      "quantity": 1,
+      "price": 250,
+      "image": "images/5.jpg"
+    },
+    {
+      "pid": 6,
+      "pname": "Stylish",
+      "quantity": 3,
+      "price": 250,
+      "image": "images/6.jpg"
+    },
+    {
+      "pid": 7,
+      "pname": "Zara-New",
+      "quantity": 2,
+      "price": 250,
+      "image": "images/7.jpg"
+    },
+    {
+      "pid": 8,
+      "pname": "Dhoti-Style",
+      "quantity": 6,
+      "price": 250,
+      "image": "images/8.jpg"
+    }
+  ],
+  "Course": [
+    {
+      "cid": 1,
+      "name": "B.tech",
+      "duration": 4
+    },
+    {
+      "cid": 2,
+      "name": "M.tech",
+      "duration": 2
+    },
+    {
+      "cid": 3,
+      "name": "B.A",
+      "duration": 3
+    },
+    {
+      "cid": 4,
+      "name": "M.A",
+      "duration": 2
+    },
+    {
+      "cid": 5,
+      "name": "Bsc",
+      "duration": 3
+    },
+    {
+      "cid": 6,
+      "name": "Msc",
+      "duration": 2
+    },
+    {
+      "cid": 7,
+      "name": "BCA",
+      "duration": 3
+    },
+    {
+      "cid": 8,
+      "name": "MCA",
+      "duration": 2
+    },
+    {
+      "cid": 8,
+      "name": "MBA",
+      "duration": 2
+    }
+  ],
+  "enquiry": [
+    {
+      "course": "B.tech",
+      "name": "neha",
+      "email": "neha@gmail.com",
+      "query": "not able to register",
+      "id": 1
+    },
+    {
+      "course": "Bsc",
+      "name": "komal",
+      "email": "komal123@gmail.com",
+      "query": "want to take addmission",
+      "id": 2
+    },
+    {
+      "course": "B.tech",
+      "name": "komal verma",
+      "email": "verma@gmail.com",
+      "query": "hjjjska",
+      "id": 3
+    },
+    {
+      "course": "MBA",
+      "name": "pooja",
+      "email": "pooja18@gmail.com",
+      "query": "not able to save the form",
+      "id": 4
+    },
+    {
+      "course": "M.A",
+      "name": "aniket",
+      "email": "aniket@gmail.com",
+      "query": "unable to contact",
+      "id": 5
+    },
+    {
+      "course": "B.tech",
+      "name": "neha deore",
+      "email": "neha123@gmail.com",
+      "query": "hi how are you",
+      "id": 6
+    }
+  ]
+}
